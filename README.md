@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently focusing on **Algorithms** to enhance my problem-solving skills.
 
-- 💬 Ask me about **OOP, DSA**
+- 💬 Ask me about **OOP, DSA**.
 
-- 📫 How to reach me **eilonasraf@gmail.com**
+- 📫 How to reach me **eilonasraf@gmail.com**.
 
-- ⚡ Fun fact **Australia is wider than the moon**
+- ⚡ Fun fact - **Australia is wider than the moon**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
