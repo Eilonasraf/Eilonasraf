@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eilonasraf&label=Profile%20views&color=0e75b6&style=flat" alt="eilonasraf" /> </p>
 
-- 🌱 I’m currently focusing on **Algorithms** to enhance my problem-solving skills in backend development.
+- 🌱 I’m currently focusing on **Algorithms** to enhance my problem-solving skills.
 
 - 💬 Ask me about **OOP, DSA**
 
