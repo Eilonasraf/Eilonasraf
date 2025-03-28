@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Eilonasraf/Eilonasraf/main/CS.jpg" alt="CS Student" width="600">
+<img src="https://raw.githubusercontent.com/Eilonasraf/Eilonasraf/main/CS.jpg" alt="CS Student" width="800">
 <h1 align="center">Hi 👋, I'm Eilon Asraf</h1>
 <h3 align="center">Computer Science Student</h3>
 
