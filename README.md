@@ -1,4 +1,4 @@
-![CS Student](CS.jpg)
+![CS Student](https://raw.githubusercontent.com/Eilonasraf/Eilonasraf/main/CS.jpg)
 <h1 align="center">Hi 👋, I'm Eilon Asraf</h1>
 <h3 align="center">Computer Science Student</h3>
 
