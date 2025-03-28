@@ -1,6 +1,6 @@
-![CS Student](https://usa.bootcampcdn.com/wp-content/uploads/sites/106/2021/03/CDG_blog_post_image_02-850x412.jpg)
+![CS Student](CS.jpg)
 <h1 align="center">Hi 👋, I'm Eilon Asraf</h1>
-<h3 align="center">2nd Year Computer Science Student</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
