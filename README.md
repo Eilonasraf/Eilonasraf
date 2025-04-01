@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Eilonasraf/Eilonasraf/main/CS.jpg" alt="CS Student" width="850" height="400">
-<h1 align="center">Hi 👋, I'm Eilon Asraf</h1>
+<h1 align="center">Hi 👋, My name is Eilon Asraf</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
